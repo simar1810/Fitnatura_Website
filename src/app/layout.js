@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "BloomSync",
-  description: "BloomSync",
+  title: "FitNatura",
+  description: "FitNatura",
 };
 
 export default function RootLayout({ children }) {
