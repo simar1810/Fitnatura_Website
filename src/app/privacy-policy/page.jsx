@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
             Privacy Policy
           </h1>
           <p className="text-[#494848] text-sm sm:text-base">
-            Last updated: April 19, 2024
+            Last updated: April 7, 2026
           </p>
         </div>
 
@@ -56,9 +56,9 @@ const PrivacyPolicy = () => {
               directors or other managing authority.
             </li>
             <li>
-              {/* changed */}
-              <strong>Company</strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to Health with Dhriti .
+              <strong>Company</strong> (referred to as either &quot;the Company&quot;,
+              &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to
+              FitNatura.
             </li>
             <li>
               <strong>Cookies</strong> are small files placed on Your computer,
@@ -66,7 +66,7 @@ const PrivacyPolicy = () => {
               of Your browsing history among its many uses.
             </li>
             <li>
-              <strong>Country</strong> refers to: Punjab, India.
+              <strong>Country</strong> refers to: India.
             </li>
             <li>
               <strong>Device</strong> means any device that can access the
@@ -89,16 +89,8 @@ const PrivacyPolicy = () => {
               infrastructure itself (for example, duration of a page visit).
             </li>
             <li>
-              {/* changed */}
-              <strong>Website</strong> refers to Health with Dhriti , accessible from{" "}
-              <a
-                href="https://https://www.dhriti.wellnessz.in//"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[#009048] hover:underline"
-              >
-                nutrihealthbridge.com
-              </a>
+              <strong>Website</strong> refers to the FitNatura website, available at the web
+              address you used to open this policy.
             </li>
             <li>
               <strong>You</strong> means the individual accessing or using the
@@ -295,7 +287,6 @@ const PrivacyPolicy = () => {
           <h2 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
             Contact Us
           </h2>
-          {/* changed */}
           <p>
             If you have any questions about this Privacy Policy, You can contact
             us at{" "}
@@ -310,7 +301,7 @@ const PrivacyPolicy = () => {
 
           {/* Footer note */}
           <p className="mt-8 text-xs sm:text-sm text-gray-500 italic border-t border-gray-200 pt-6">
-            This Privacy Policy was last updated on <strong>April 19, 2024</strong>.
+            This Privacy Policy was last updated on <strong>April 7, 2026</strong>.
           </p>
         </div>
       </div>

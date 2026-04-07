@@ -12,40 +12,30 @@ const TermsAndConditionsPage = () => {
             Please read these Terms and Conditions carefully before using our website.
           </p>
         </div>
-        {/* change */}
         <div className="space-y-6 text-[#494848] leading-relaxed text-sm sm:text-base">
           <h2 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
             Terms and Conditions
           </h2>
-          <p>Welcome to Health with Dhriti !</p> 
+          <p>Welcome to FitNatura!</p>
 
           <p>
-            These terms and conditions outline the rules and regulations for the use
-            of Health with Dhriti &apos;s website, located at {" "}
-            <a
-              href="https://https://www.dhriti.wellnessz.in/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#009048] hover:underline"
-            >
-              https://www.dhriti.wellnessz.in/
-            </a>.
+            These terms and conditions outline the rules and regulations for your use
+            of the FitNatura website (the &quot;Site&quot;), available at the web address
+            you used to access this page.
           </p>
-          {/* change */}
           <p>
             By accessing this website, we assume you accept these terms and
-            conditions. Do not continue to use Health with Dhriti  if you do not agree to
+            conditions. Do not continue to use the Site if you do not agree to
             all of the terms and conditions stated on this page.
           </p>
-{/* change */}
           <p>
             The following terminology applies to these Terms and Conditions, Privacy
             Statement, Disclaimer Notice, and all Agreements: &quot;Client&quot;,
             &quot;You&quot;, and &quot;Your&quot; refer to you, the person logging
             on to this website and complying with the Company&apos;s terms and
             conditions. &quot;The Company&quot;, &quot;Ourselves&quot;,
-            &quot;We&quot;, &quot;Our&quot;, and &quot;Us&quot; refer to Health with Dhriti 
-            . &quot;Party&quot;, &quot;Parties&quot;, or &quot;Us&quot; refer
+            &quot;We&quot;, &quot;Our&quot;, and &quot;Us&quot; refer to FitNatura.
+            &quot;Party&quot;, &quot;Parties&quot;, or &quot;Us&quot; refer
             to both the Client and ourselves. All terms refer to the offer,
             acceptance, and consideration of payment necessary to undertake the
             process of our assistance to the Client in the most appropriate manner
@@ -60,10 +50,9 @@ const TermsAndConditionsPage = () => {
           <h3 className="text-lg font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
             Cookies
           </h3>
-{/* change */}
           <p>
-            We employ the use of cookies. By accessing Health with Dhriti , you agree to
-            use cookies in accordance with Health with Dhriti &apos;s Privacy Policy.
+            We employ the use of cookies. By accessing the Site, you agree to
+            use cookies in accordance with FitNatura&apos;s Privacy Policy.
           </p>
 
           <p>
@@ -77,21 +66,19 @@ const TermsAndConditionsPage = () => {
           <h3 className="text-lg font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
             License
           </h3>
-{/* change */}
           <p>
-            Unless otherwise stated, Health with Dhriti  and/or its licensors own the
-            intellectual property rights for all material on Nutri Health. All
-            intellectual property rights are reserved. You may access this from
-            Health with Dhriti  for your own personal use subject to the restrictions set
+            Unless otherwise stated, FitNatura and/or its licensors own the
+            intellectual property rights for all material on the Site. All
+            intellectual property rights are reserved. You may access the Site for
+            your own personal use subject to the restrictions set
             in these terms and conditions.
           </p>
-{/* change */}
           <p>You must not:</p>
           <ul className="list-disc list-inside space-y-1">
-            <li>Republish material from Health with Dhriti ;</li>
-            <li>Sell, rent, or sub-license material from Health with Dhriti ;</li>
-            <li>Reproduce, duplicate, or copy material from Health with Dhriti ;</li>
-            <li>Redistribute content from Health with Dhriti .</li>
+            <li>Republish material from the Site;</li>
+            <li>Sell, rent, or sub-license material from the Site;</li>
+            <li>Reproduce, duplicate, or copy material from the Site;</li>
+            <li>Redistribute content from the Site.</li>
           </ul>
 
           <p>
@@ -107,21 +94,19 @@ const TermsAndConditionsPage = () => {
             </a>
             .
           </p>
-{/* change */}
           <p>
             Parts of this website offer an opportunity for users to post and
-            exchange opinions and information in certain areas of the website. Health with Dhriti  does not filter, edit, publish, or review Comments prior to their
+            exchange opinions and information in certain areas of the website. FitNatura does not filter, edit, publish, or review Comments prior to their
             presence on the website. Comments do not reflect the views or opinions
-            of Health with Dhriti , its agents, and/or affiliates. Comments reflect the
+            of FitNatura, its agents, and/or affiliates. Comments reflect the
             views and opinions of the person who posts them. To the extent permitted
-            by applicable law, Health with Dhriti  shall not be liable for the Comments or
+            by applicable law, FitNatura shall not be liable for the Comments or
             for any liability, damages, or expenses caused and/or suffered as a
             result of any use of and/or posting of and/or appearance of the Comments
             on this website.
           </p>
-{/* change */}
           <p>
-            Health with Dhriti  reserves the right to monitor all Comments and to remove
+            FitNatura reserves the right to monitor all Comments and to remove
             any Comments that can be considered inappropriate, offensive, or that
             cause a breach of these Terms and Conditions.
           </p>
@@ -147,9 +132,8 @@ const TermsAndConditionsPage = () => {
               or present commercial activities or unlawful activity.
             </li>
           </ul>
-{/* change */}
           <p>
-            You hereby grant Health with Dhriti  a non-exclusive license to use, reproduce,
+            You hereby grant FitNatura a non-exclusive license to use, reproduce,
             edit, and authorize others to use, reproduce, and edit any of your
             Comments in any and all forms, formats, or media.
           </p>
@@ -201,13 +185,12 @@ const TermsAndConditionsPage = () => {
             <li>Accounting, law, and consulting firms; and</li>
             <li>Educational institutions and trade associations.</li>
           </ul>
-          {/* change */}
           <p>
             We will approve link requests from these organizations if we decide
             that: (a) the link would not make us look unfavorably to ourselves or to
             our accredited businesses; (b) the organization does not have any
             negative records with us; (c) the benefit to us from the visibility of
-            the hyperlink compensates the absence of Health with Dhriti ; and (d) the link
+            the hyperlink is reasonable in the circumstances; and (d) the link
             is in the context of general resource information.
           </p>
 
@@ -221,9 +204,8 @@ const TermsAndConditionsPage = () => {
               party&apos;s site.
             </li>
           </ul>
-{/* change */}
           <p>
-            No use of Health with Dhriti &apos;s logo or other artwork will be allowed for
+            No use of FitNatura&apos;s logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 
@@ -325,7 +307,7 @@ const TermsAndConditionsPage = () => {
         </div>
         <p className="mt-8 text-xs sm:text-sm text-gray-500 italic border-t border-gray-200 pt-4">
             These Terms and Conditions were last updated on{" "}
-            <strong>October 10, 2025</strong>.
+            <strong>April 7, 2026</strong>.
         </p>
       </div>
     </section>
